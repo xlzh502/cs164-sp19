@@ -1,5 +1,8 @@
 # CS 164, Spring 2019
 
+[完整的Berkeley CS课程列表](https://www2.eecs.berkeley.edu/Courses/CS/)
+
+
 [Course Information](http://www-inst.eecs.berkeley.edu/~cs164/sp19/)
 
 PDFs and projects code.
